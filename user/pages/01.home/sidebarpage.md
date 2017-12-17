@@ -1,9 +1,6 @@
 ---
-title: Home
+title: 'Home'
 published: true
-hidepagetitle: false
-hidegitrepoeditlink: false
-visible: false
 ---
 
 [Course One Title (cpt-363)](/cpt-363)  
